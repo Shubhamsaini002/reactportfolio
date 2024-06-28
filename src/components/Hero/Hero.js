@@ -15,7 +15,7 @@ const Hero =()=>{
             <div className="tech-icon">
              <img src="assets/images/physics.png" alt=""  />
             </div>
-            <img src="assets/images/image1.png" alt="" />
+            <img src="assets/images/image1.png" alt=""  style={{height:"280px",width:"240px", borderRadius: "20px" }} />
          </div>
          <div>
          <div className="tech-icon">
