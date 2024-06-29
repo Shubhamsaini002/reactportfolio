@@ -87,6 +87,7 @@ outline: 1.5px solid #a993fe;
     cursor: pointer;
     transition: all 0.4s ease;
     display: none;
+    margin-right: 2rem;
 }
 .menu-btn:hover{
     color: #a993fe;

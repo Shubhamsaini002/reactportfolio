@@ -65,6 +65,7 @@
     text-align: center;
     border-radius: 0.65rem;
     border: 1.5px solid #6852ba;
+
 }
 .tech-icon img{
     width: 3rem;
@@ -75,6 +76,8 @@
 .hero-img > div > img:hover,
 .tech-icon img:hover{
 transform: translateY(-0.8rem);
+background: #a799d9;
+box-shadow: 1px 1px 20px #8b6aef, 1px 1px 40px #8b6aef;
 }
 @media(max-width:1025px){
     .hero-content h2{
